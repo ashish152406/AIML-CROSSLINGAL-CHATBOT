@@ -1,0 +1,203 @@
+{
+  "greeting": {
+    "en": [
+      "Hello! How can I help you?",
+      "Hi there! What can I do for you today?",
+      "Welcome! How may I assist you?"
+    ],
+    "hi": [
+      "नमस्ते! मैं आपकी कैसे मदद कर सकता हूँ?",
+      "हाय! क्या मदद चाहिए?",
+      "नमस्कार! बोलो भाई क्या चाहिए?"
+    ]
+  },
+  "repeat_query": {
+    "en": ["Sure! Let me repeat that for you."],
+    "hi": ["ज़रूर! मैं इसे दोबारा बताता हूँ।"],
+    "mr": ["नक्की! मी पुन्हा सांगतो."]
+},
+
+
+  "farewell": {
+    "en": [
+      "Goodbye! Have a great day!",
+      "See you soon!",
+      "Take care!"
+    ],
+    "hi": [
+      "अच्छा ठीक है, फिर मिलते हैं!",
+      "ख्याल रखना!",
+      "बाय! फिर बात करते हैं।"
+    ]
+  },
+
+  "timetable": {
+    "en": [
+      "Your timetable is available on the portal.",
+      "I’ve sent your updated timetable.",
+      "You can check the timetable in the academics section."
+    ],
+    "hi": [
+      "आपका टाइमटेबल पोर्टल पर उपलब्ध है।",
+      "मैंने अपडेटेड टाइमटेबल भेज दिया है।",
+      "टाइमटेबल देखने के लिए अकादमिक सेक्शन खोलो।"
+    ]
+  },
+
+  "exam_query": {
+    "en": [
+      "Exam dates have been uploaded.",
+      "Check the portal for your exam timetable.",
+      "Your next exam is scheduled soon."
+    ],
+    "hi": [
+      "एग्ज़ाम डेट्स अपलोड कर दी गई हैं।",
+      "पोर्टल पर एग्ज़ाम का टाइमटेबल देख लो।",
+      "आपका अगला एग्ज़ाम जल्द ही है।"
+    ]
+  },
+
+  "notice_request": {
+    "en": [
+      "The latest notice has been uploaded.",
+      "Check the notice board for new updates.",
+      "I’ve shared the newest notice."
+    ],
+    "hi": [
+      "नया नोटिस अपलोड कर दिया गया है।",
+      "नोटिस बोर्ड पर अपडेट देख लो।",
+      "मैंने नया नोटिस भेज दिया है।"
+    ]
+  },
+
+  "syllabus_request": {
+    "en": [
+      "The syllabus PDF has been sent.",
+      "You can download the syllabus from the portal.",
+      "Updated syllabus is available online."
+    ],
+    "hi": [
+      "सिलेबस की PDF भेज दी है।",
+      "पोर्टल से सिलेबस डाउनलोड कर लो।",
+      "अपडेटेड सिलेबस ऑनलाइन मौजूद है।"
+    ]
+  },
+
+  "event_info": {
+    "en": [
+      "A new event is happening soon.",
+      "The event details are available on the events page.",
+      "I’ve shared the upcoming event schedule."
+    ],
+    "hi": [
+      "नया इवेंट जल्द ही होने वाला है।",
+      "इवेंट की जानकारी इवेंट पेज पर उपलब्ध है।",
+      "मैंने इवेंट की डिटेल्स भेज दी हैं।"
+    ]
+  },
+
+  "hostel_info": {
+    "en": [
+      "Hostel forms are available in the admin office.",
+      "Hostel fees details have been updated.",
+      "You can apply for hostel online."
+    ],
+    "hi": [
+      "होस्टल फॉर्म एडमिन ऑफिस में उपलब्ध हैं।",
+      "होस्टल फीस डिटेल्स अपडेट की गई हैं।",
+      "आप ऑनलाइन होस्टल के लिए अप्लाई कर सकते हो।"
+    ]
+  },
+
+  "fees_info": {
+    "en": [
+      "Fee payment can be done online.",
+      "Your fee receipt has been generated.",
+      "Check the portal for fee structure."
+    ],
+    "hi": [
+      "फीस ऑनलाइन जमा की जा सकती है।",
+      "आपकी फीस रसीद जनरेट हो गई है।",
+      "फीस स्ट्रक्चर पोर्टल पर उपलब्ध है।"
+    ]
+  },
+
+  "attendance_query": {
+    "en": [
+      "Your attendance record has been updated.",
+      "You can check attendance on the portal.",
+      "Your attendance is below requirement."
+    ],
+    "hi": [
+      "आपकी उपस्थिति अपडेट कर दी गई है।",
+      "आप पोर्टल पर अटेंडेंस देख सकते हैं।",
+      "आपकी अटेंडेंस आवश्यक स्तर से कम है।"
+    ]
+  },
+
+  "technical_issue": {
+    "en": [
+      "Please check your internet connection.",
+      "Try restarting the app.",
+      "The issue has been forwarded to the technical team."
+    ],
+    "hi": [
+      "कृपया अपना इंटरनेट कनेक्शन चेक करें।",
+      "एप को रीस्टार्ट करके देखें।",
+      "समस्या टेक्निकल टीम को भेज दी गई है।"
+    ]
+  },
+
+  "library_query": {
+    "en": [
+      "Library timing is 9 AM to 5 PM.",
+      "You can issue books using your ID card.",
+      "Library is located near the admin building."
+    ],
+    "hi": [
+      "लाइब्रेरी का समय सुबह 9 से शाम 5 बजे तक है।",
+      "आप ID कार्ड से किताबें इशू कर सकते हैं।",
+      "लाइब्रेरी एडमिन बिल्डिंग के पास स्थित है।"
+    ]
+  },
+
+  "admission_info": {
+    "en": [
+      "Admission forms will be available soon.",
+      "You can apply through the online admission portal.",
+      "Admission guidelines have been updated."
+    ],
+    "hi": [
+      "एडमिशन फॉर्म जल्द ही उपलब्ध होंगे।",
+      "आप ऑनलाइन एडमिशन पोर्टल से आवेदन कर सकते हैं।",
+      "एडमिशन गाइडलाइन्स अपडेट कर दी गई हैं।"
+    ]
+  },
+
+  "transport_query": {
+    "en": [
+      "Bus timings have been updated.",
+      "College buses arrive every hour.",
+      "You can check transport details on the portal."
+    ],
+    "hi": [
+      "बस टाइमिंग अपडेट कर दी गई है।",
+      "कॉलेज बसें हर घंटे आती हैं।",
+      "आप पोर्टल पर ट्रांसपोर्ट डिटेल्स देख सकते हैं।"
+    ]
+  },
+
+  "general_query": {
+    "en": [
+      "Sure, tell me more!",
+      "I'm here to help.",
+      "Ask me anything!"
+    ],
+    "hi": [
+      "ज़रूर, बताइए!",
+      "मैं मदद के लिए हूँ।",
+      "कुछ भी पूछ लो!"
+    ]
+    
+  }
+}

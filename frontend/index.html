@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Cross-Lingual Chatbot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">Cross-Lingual Chatbot</div>
+      <div class="controls">
+        <button id="langBtn" class="btn">Language ▾</button>
+        <button id="downloadBtn" class="btn">Download Chat</button>
+        <button id="clearBtn" class="btn danger">Clear Chat</button>
+        <label class="switch">
+          <input id="darkToggle" type="checkbox">
+          <span class="slider"></span>
+        </label>
+      </div>
+    </header>
+
+    <main class="chat-area" id="chatArea">
+      <div id="messages" class="messages"></div>
+      <div class="composer">
+        <button id="micBtn" class="icon-btn" title="Voice input">🎤</button>
+        <button id="ttsBtn" class="icon-btn" title="Speak last reply">🔊</button>
+        <input id="inputBox" type="text" placeholder="Type your message..." autocomplete="off" />
+        <button id="sendBtn" class="btn primary">Send</button>
+      </div>
+    </main>
+
+    <div id="langPopup" class="popup hidden" role="dialog" aria-hidden="true">
+      <h3>Select language</h3>
+      <div class="lang-list">
+        <button class="lang-choice" data-lang="en">English</button>
+        <button class="lang-choice" data-lang="hi">हिन्दी (Hindi)</button>
+        <button class="lang-choice" data-lang="mr">मराठी (Marathi)</button>
+      </div>
+      <div class="popup-actions">
+        <button id="closeLangPopup" class="btn">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
